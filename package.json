@@ -28,7 +28,7 @@
     "react",
     "javascript"
   ],
-  "author": "Miguel Hernández <miguelhernandezk@gmail.com>",
+  "author": "Daniel Rodriguez <dirs21@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "css-loader": "^6.7.1",
